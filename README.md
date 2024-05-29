@@ -17,10 +17,6 @@ The purpose of this project is to analyze and compare the effectiveness of tradi
 
 Clone this repository to your local machine to get started:
 
-```bash
-git clone <repository-url>
-cd <repository-directory>
-```
 Install the required Python packages:
 ```bash
 pip install -r requirements.txt
